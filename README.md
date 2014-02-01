@@ -3,6 +3,8 @@ pdx-shows
 
 Portland, Oregon punk show listings in your terminal
 
+`npm install -g pdx-shows`
+
 ## What is this?
 
 ### This is...
