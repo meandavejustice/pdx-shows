@@ -3,6 +3,8 @@ pdx-shows
 
 Portland, Oregon punk show listings in your terminal
 
+[![NPM](https://nodei.co/npm/pdx-shows.png?downloads=true)](https://npmjs.com/package/pdx-shows)
+
 `npm install -g pdx-shows`
 
 ## What is this?
